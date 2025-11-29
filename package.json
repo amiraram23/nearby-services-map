@@ -6,8 +6,6 @@
   "scripts": {
     "dev": "vite",
     "homepage": "https://amiraram23.github.io/nearby-services-map/",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "lint": "eslint .",
