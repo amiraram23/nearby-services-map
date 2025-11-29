@@ -1,4 +1,4 @@
-![Project Screenshot](Screenshot of project.png)
+![Project Screenshot](Screenshot.png)
 
 # Nearby Services Map
 
