@@ -1,6 +1,10 @@
 
 # Nearby Services Map
-![Project Screenshot](Screenshot of project.png)
+
+![Project Screenshot](assets/Screenshot of project.png)
+
+A React-based web application that helps users find nearby services such as pharmacies, ATMs, hospitals, restaurants, banks, and supermarkets using Google Maps and Places APIs. The project is built with **Vite** and features an interactive map and sidebar interface with quick analysis of nearby places.
+
 
 A React-based web application that helps users find nearby services such as pharmacies, ATMs, hospitals, restaurants, banks, and supermarkets using Google Maps and Places APIs. The project is built with **Vite** and features an interactive map and sidebar interface with quick analysis of nearby places.
 
